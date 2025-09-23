@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e7e967ed-94b7-8fd8-0578-c3aba7691859"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9a4f6c6b-58ef-472a-a902-2e536a6aad92",
+    "website": "18-226-probabilistic-method-in-combinatorics-fall-2020"
+  },
+  "course_title": "Probabilistic Method in Combinatorics",
+  "course_description": "This course is a graduate-level introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is to show that some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.\n\nThis course was previously numbered 18.218.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.226",
+  "course_image_thumbnail": {
+    "content": "54e7a281-f3fb-4c30-86cc-f2e4e6f14b41",
+    "website": "18-226-probabilistic-method-in-combinatorics-fall-2020"
+  },
+  "learning_resource_types": [
+    "Instructor Insights",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "227ef7de-f15d-4593-adb5-7ffa73516582",
+  "site_short_id": "18.226-fall-2020",
+  "site_url_path": "courses/18-226-probabilistic-method-in-combinatorics-fall-2020"
+}
