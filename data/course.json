@@ -30,6 +30,7 @@
     "website": "18-226-probabilistic-method-in-combinatorics-fall-2020"
   },
   "course_title": "Probabilistic Method in Combinatorics",
+  "hide_download": true,
   "course_description": "This course is a graduate-level introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is to show that some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.\n\nThis course was previously numbered 18.218.",
   "department_numbers": [
     "18"
@@ -40,6 +41,7 @@
     "content": "54e7a281-f3fb-4c30-86cc-f2e4e6f14b41",
     "website": "18-226-probabilistic-method-in-combinatorics-fall-2020"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Instructor Insights",
     "Lecture Notes",
