@@ -13,8 +13,8 @@ Lectures: 2 sessions / week, 1.5 hours / session
 ## Prerequisites
 
 - *18.211 Combinatorial Analysis* 
-- [*18.600 Probability and Random Variables*](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)
-- Real Analysis—either [*18.100A*](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/), [*18.100B*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010/), or [*18.100C*](https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/)
+- {{% resource_link "c0161bcf-79c0-47db-a12c-c51a58f031be" "*18.600 Probability and Random Variables*" %}}
+- Real Analysis—either {{% resource_link "a5195fa2-868f-4c34-a44a-50e403ec3f31" "*18.100A*" %}}, {{% resource_link "136a9ba7-123b-4676-9cc6-04287c932c6e" "*18.100B*" %}}, or {{% resource_link "7a968330-2333-46e5-aec4-a25370cb86b5" "*18.100C*" %}}
 
 or permission of instructor
 
