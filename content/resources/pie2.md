@@ -6,8 +6,6 @@ draft: ''
 file: /courses/18-226-probabilistic-method-in-combinatorics-fall-2020/pie2.png
 file_size: 12992
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -6,8 +6,6 @@ draft: ''
 file: /courses/18-226-probabilistic-method-in-combinatorics-fall-2020/mit18_226f20_pset.pdf
 file_size: 456479
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
